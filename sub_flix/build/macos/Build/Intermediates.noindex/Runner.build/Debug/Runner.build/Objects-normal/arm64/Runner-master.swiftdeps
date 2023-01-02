@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "b01860d75d5881896b43c41bd8d5a818619d14aaf0b5ee13df3bf103fef94806"
+build_start_time: [1672647611, 439190864]
+build_end_time: [1672647615, 909260034]
+inputs:
+  "/Users/idongseob/sub_flix/macos/Flutter/GeneratedPluginRegistrant.swift": [1672647602, 53817272]
+  "/Users/idongseob/sub_flix/macos/Runner/AppDelegate.swift": [1671141040, 0]
+  "/Users/idongseob/sub_flix/macos/Runner/MainFlutterWindow.swift": [1671141040, 0]
