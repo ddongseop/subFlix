@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "34a80cc629f2c4f87bca5aa7f77875cc6c6103f064c7aa4af1dc9e19b97d8485"
+build_start_time: [1672749688, 21561145]
+build_end_time: [1672749688, 37583827]
+inputs:
+  "/Users/idongseob/dev/subFlix/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1672749678, 13530731]
+  "/Users/idongseob/dev/subFlix/macos/Runner/AppDelegate.swift": !private [1672739238, 150609970]
+  "/Users/idongseob/dev/subFlix/macos/Runner/MainFlutterWindow.swift": !private [1672739238, 154623985]
